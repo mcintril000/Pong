@@ -1,3 +1,5 @@
+//The board class gives the other classes a space to work and paint/move the other objects.
+
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
